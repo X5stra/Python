@@ -1,0 +1,16 @@
+.container {
+    margin: 20px;
+    padding: 20px;
+    border: solid blue 2px
+}
+
+.container img {
+    padding: 15px;
+    width: 200px;
+    border-radius: 50%;
+    border: solid powderblue
+}
+
+h1 {
+    color:bisque;
+}
